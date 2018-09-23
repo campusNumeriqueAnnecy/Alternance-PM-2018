@@ -1,4 +1,4 @@
-# 2 - Processus, Personnes et gestion de projet (0,5j)
+# 2 - Processus, Personnes et gestion de projet
 
 ## Objectifs du cours
 - Découvrir les méthodes principales de la gestion de projet informatique

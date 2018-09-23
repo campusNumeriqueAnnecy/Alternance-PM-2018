@@ -73,6 +73,14 @@ Il permet de mettre le WBS dans une dimension temporelle, il permet aussi de con
 ## Diagramme de PERT (Etape 3) : 
 Complément au diagramme de GANTT, il permet de hiérarchiser les taches, notamment de définir les liens fin-début, début-fin, les début au plus tard / au plus tôt, fin au plus tard sur les taches. Il défini clairement les dépendances entre les taches et leurs antécédences.
 
+## Cahier des charges (Étape 3) :
+Le cahier des charges va regrouper le résultat des différents outils utilisé en étape 1, 2 et 3. En effet c'est une sorte de contrat entre le client et l'équipe de projet dans le but de la réalisation des objectifs.
+
+Il va contenir les réponses aux questions QQQCP.
+
+Le cahier des charges peut s'utiliser de manière succincte (Méthodologie AGILE, ou pour donner des points d'étapes par exemple) puis se construire petit à petit.
+  
+Par exemple, en méthode Agile on s'en sert pour définir un point de départ / contexte qui sera mis à jour continuellement lors de l'étape de réalisation (4).
 ## Scrum (Etape 4):
 La méthodologie scrum permet de suivre le projet lors de sa phase de réalisation. Le burndown chart permet de suivre l'avancement du projet tout en se comparant avec les estimation du sprint courant.
 

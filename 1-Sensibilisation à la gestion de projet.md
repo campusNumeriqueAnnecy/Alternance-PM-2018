@@ -1,52 +1,114 @@
-# Séance 1 Sensibilisation à la gestion de projet et les concepts  (1j)
+# Séance 1 Sensibilisation à la gestion de projet et les concepts  (1 jour)
 
 ## Objectif du cours 
+- Comprendre les différences de point de vue
+- Comprendre l'intérêt de l'organisation et de la méthodologie de projet
+- Comprendre l'importance de la communication
 - Découvrir les différents acteurs d'un projet
 - Découvrir les bases conceptuelles de gestion de projet
 
 ## Déroulement du cours 
 1. Exercice Lego
-## Exercice Lego : 
-### Outils : 
-- Une boite de lego par groupe
+2. Cours d'introduction à la gestion de projet
 
-### Objectifs de l'exercice : 
+## Outils : 
+- Une boite de lego par groupe
+## Exercices Lego : (9H30)
+1. Mettez vous en groupe (3 groupes)
+2. Nommer votre groupe
+
+### Challenge Simple (9H45)
+1. Instructions
+	- Trier les pièces par types / tailles
+	- Faite un tas pour les pièces spéciales
+	- Décidez dans votre équipe des pièces que vous considérez comme spéciales.
+
+2. Debriefing (5 minutes)
+	- De combien de temps avez-vous eu besoin pour la planification ?
+	- Comment était la communication ?
+	- Combien y a-t-il eu de leaders et de suiveurs dans votre équipe ?
+
+### Challenge Compliqué (10H)
+1. Instructions
+	- Construire une structure, aussi vite que possible, selon les règles suivantes :
+	- Au moins 20 briques de hauteur
+	- Un motif régulier de couleurs (plus d'une couleur)
+
+	- Chaque nouveau bloc ajouté à la structure ne peut être plus gros que celui du dessous
+2. Debriefing (5 minutes)
+	- Qu'est-ce qui diffère de la situation précédente, le problème simple ?
+	- De combien de temps avez-vous eu besoin pour la planification ?
+	- Comment était la communication ?
+	- Combien y avait-il de leaders/suiveurs dans votre équipe ?
+
+### Challenge Chaotique (10h30)
+1. Instructions
+	- Chaque brique d'une couleur donnée ne doit être touchée que par une seule personne de l'équipe
+	- Il faut construire un immeuble ou une usine. 
+	- L'enseignant touchera de temps en temps l'épaule d'un membre d'une équipe en indiquant une autre table. Cette personne devra immédiatement rejoindre la table désignée et abandonner son équipe. 
+
+2. Debriefing
+	- Qu'est-ce qui diffère des situations précédentes ?
+	- Comment était la communication ? 
+	- Combien y avait-il de leaders/suiveurs dans votre équipe ?
+	- Qu'est-ce que ça fait de perdre un membre de l'équipe ? 
+	- Comment s'intégrer à une nouvelle équipe ? 
+	- Pourquoi ce léger changement fait-il une si grande différence ?
+
+### Exercice de l'intermédiaire (11H)
+1. Démarrage
+	- Faire des équipes de 3 à 4 joueurs. Un joueur sera le client, un deuxième l’intermédiaire, le troisième sera le producteur. Pour les équipes de 4 personnes, laisser décider l’équipe sur le rôle du quatrième.
+	- Le client va construire seul une première fois le robot et s’assurer que les pièces nécessaires à sa construction sont disponibles dans le tas de pièces utilisé par le producteur. 
+	- Ensuite le client va s’éloigner de quelques mètres, pour ne pas être en mesure de voir le robot construit. Il va devoir décrire le robot sans jamais le montrer à l’intermédiaire.
+	- L’intermédiaire va réaliser le passage d’information entre le client et le producteur. Il ne peut ni voir le robot, ni toucher les Lego.
+	- Le producteur va lui construire le robot, uniquement sur les ordres de l’intermédiaire.
+2. Déroulement
+	- Chaque acteur devrait appliquer les méthodes vues lors du second exercice.
+	
+	- Certains, notamment les producteurs, devraient même aller plus loin en préparant les Lego triés par type ou couleur.
+	
+	- Si une équipe indique avoir terminé, faites la vérification sans que ni l’un ni l’autre ne voit le résultat ou la photo. Si le résultat n’est pas conforme, dites leur de poursuivre.
+
+3. Débriefing
+	- Justification des choix 
+	- Ce qui s’est bien passé / mal passé 
+	- La production vs l'attente client
+	- Points d’amélioration
+
+### Exercice final (11h30)
+#### Objectifs de l'exercice : 
 - Prendre conscience de l'importance du choix dans le role de chacun.
 - Prendre conscience du besoin d'organisation (lors de la mise en place des pièces, mais aussi entre les chefs de projets qui doivent définir une façon de visualiser le model)
 - Comprendre le besoin client et réaliser une vision défini par le client (très précise cette fois ci car une copie)
 - Savoir gérer les ressources à sa disposition (en allant piocher les bonnes pièces, sans en prendre trop peu ni trop)
 
-
 *Voir ceux qui vienne demander si cela convient au besoin client. Voir si il y en a qui vont plus loin que le besoin client, rebondir dessus.*
 
-### Déroulement : 
+#### Déroulement : 
 1. Briefing (15 mn)
 Donner les règles aux étudiants concernant l'exercice 
-	1. Mettez vous en groupe (3 groupes)
-	2. Nommer votre groupe
 	- Vous devrez désigner un chef de projet, et vous aurez 5 minutes pour le faire et noterez le nom du chef de projet, le nom du groupe et les membres du groupe sur le tableau.
-	- J'ai ici une construction en Lego, le but de l'exercice d'aujourd'hui est de refaire cette construction a l'identique.
+	- Le chef de projet pourra venir autant de fois qu'il le souhaite, mais seul un chef de projet à la fois devant la sculpture modele (sauf la première fois) 
+	- J'ai ici une construction en Lego, le but de l'exercice est de refaire cette construction a l'identique.
 	- Seul votre chef de projet pourra venir voir la construction à mon bureau.
-	- Le chef de projet pourra venir autant de fois qu'il le souhaite, mais seul un chef de projet à la fois devant la sculpture modele.
 	- On ne peut piocher que 2 fois dans les pièces
 	- Vous avez 15 minutes pour terminer l'exercice, pas de bonus si fini avant, le but est vraiment d'avoir la sculpture la plus identique possible.
-2. Exercice (30 minutes top chrono)
+
+2. Exercice (15 minutes top chrono)
+3. Client : En quoi votre reproduction est la meilleure ? 
 3. Débrief de l'organisation mise en oeuvre
 	- Justification des choix 
-	- En quoi votre reproduction est la meilleure ?
-4. Si temps : 
-	- Les 3 CDP se mettent en équipe
-	- Les autres forment d'autres équipes
-	- Cette fois la sculpture est visible par tous
-5. On refait l'exercice en 10 minutes
-6. Débrief 2
-	- Plus facile ? 
-	- Plus difficile ?
-	- Noter tout
+	- Ce qui s’est bien passé / mal passé 
+	- Restes il beaucoup de brique ? 
+	- Points d’amélioration
+
 
 ### 1. Les concepts derrières la GP 
 
 *En quoi elle vous aurait servi ce matin?* 
+*Qu'avez vous tiré des exercices de ce matin?*
+
+
 
 > **Question : Qui à déjà été confronté à la GP ? Dans quelle mesure ?**
 ---
@@ -56,6 +118,10 @@ Donner les règles aux étudiants concernant l'exercice
 *D'après leurs expérience de ce matin notamment + des présentations qui viennent juste d'êtres faites, selon eux...* 
 > **Question : Selon vous à quoi sert la gestion de projet ?**
 ---
+
+https://i.skyrock.net/8453/10288453/pics/355714992_small.jpg 
+(La vision de chacun est différente)
+Il y a aussi l'image du (canard / lapin)
 
 - Présentation de la GP, et son utilité 
 	- Organiser pour optimiser le temps et l'argent
@@ -171,3 +237,6 @@ Il existe plusieurs "cycle" de développement dans l'ingénierie informatique qu
 * Cycle de développement logiciel : <https://fr.wikipedia.org/wiki/Cycle_de_d%C3%A9veloppement_(logiciel)> 
 
 //Feuille à distribuer pour proposer les outils disponibles à utiliser sur des scénarios
+
+> Ce qui a été retenu du cours d'aujourd'hui > Campus Skills
+
